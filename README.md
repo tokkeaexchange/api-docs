@@ -1,4 +1,4 @@
-# Documentation for the Tokkea.Exchange API v2
+# Documentation for the Tokkea Exchange API v2
 
 * [api-doc.md](./api-doc.md) - 	Descriptions of REST API Endpoints.
 
